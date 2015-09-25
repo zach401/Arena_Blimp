@@ -1,0 +1,1 @@
+"./main.obj" "./hal_msp_exp430g2_spi.obj" "./hal_int_rf_msp_exp430g2.obj" "./hal_int.obj" "./hal_digio2.obj" "./hal_board.obj" "./cc11xL_spi.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
